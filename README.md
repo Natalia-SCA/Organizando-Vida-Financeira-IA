@@ -9,7 +9,7 @@
 
 Projeto com o objetivo de gerar uma planilha de organização financeira para gerar insigths através de IA
 
-<a href="https://github.com/Natalia-SCA/Ebook_construindo_o_futuro/blob/main/Ebook_contruindo_o_futuro.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/Natalia-SCA/Organizando-Vida-Financeira-IA/blob/main/Planilha_Organizando_Vida_Financeira.xlsx"> 📕Clique aqui para ver</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
