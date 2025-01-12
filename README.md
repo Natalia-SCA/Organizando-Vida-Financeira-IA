@@ -9,7 +9,7 @@
 
 Projeto com o objetivo de gerar uma planilha de organização financeira para gerar insigths através de IA
 
-<a href="https://github.com/Natalia-SCA/Organizando-Vida-Financeira-IA/blob/main/Planilha_Organizando_Vida_Financeira.xlsx"> 📕Clique aqui para ver planilha Excel </a>
+<a href="https://github.com/Natalia-SCA/Organizando-Vida-Financeira-IA/blob/main/Planilha_Organizacao_Financeira.xlsx"> 📕Clique aqui para ver planilha Excel </a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
